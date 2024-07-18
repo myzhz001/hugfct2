@@ -1,0 +1,18 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+.vscode/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore other unnecessary files
+AppData/
